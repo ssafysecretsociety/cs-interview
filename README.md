@@ -10,7 +10,7 @@ SSAFY 3월 스터디
 - [WeareSoft/tech-interview](https://github.com/WeareSoft/tech-interview)
 - [jobhope/TechnicalNote](https://github.com/jobhope/TechnicalNote)
 
-## Data Structure (자료구조)
+## [Data Structure (자료구조)](./contents/data-structure)
 
 #### 기본 자료 구조
 
