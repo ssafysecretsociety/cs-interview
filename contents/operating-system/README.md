@@ -1,5 +1,5 @@
 ## Operating System (운영체제)
-- 프로세스와 스레드
+- [프로세스와 스레드](./contents/process-thread.md)
 - 멀티 프로세스와 멀티 스레드
 - 프로세스 스케줄링
 - CPU 스케줄링
