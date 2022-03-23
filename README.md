@@ -10,18 +10,18 @@ SSAFY 3월 스터디
 - [WeareSoft/tech-interview](https://github.com/WeareSoft/tech-interview)
 - [jobhope/TechnicalNote](https://github.com/jobhope/TechnicalNote)
 
-## [Data Structure (자료구조)](./contents/data-structure)
+### [Data Structure (자료구조)](./contents/data-structure)
 
-## [Algorithm (알고리즘)](./contents/algorithm)
+### [Algorithm (알고리즘)](./contents/algorithm)
 
-## [Operating System (운영체제)](./contents/operating-system)
+### [Operating System (운영체제)](./contents/operating-system)
 
-## [Database (데이터베이스)](./contents/database)
+### [Database (데이터베이스)](./contents/database)
 
-## [Network (네트워크)](./contents/network/)
+### [Network (네트워크)](./contents/network/)
 
-## [Design Pattern (디자인 패턴)](./contents/design-pattern)
+### [Design Pattern (디자인 패턴)](./contents/design-pattern)
 
-## [Software Engineering (소프트웨어 공학)](./contents/software-engineering)
+### [Software Engineering (소프트웨어 공학)](./contents/software-engineering)
 
-## [Language](./contents/language)
+### [Language](./contents/language)
