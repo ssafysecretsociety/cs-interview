@@ -2,13 +2,6 @@
 SSAFY 3월 스터디  
 🧐 동룡쭌의 CS 인터뷰 클럽 🧐
 
-### Reference
-
-- [Seogeurim/CS-study](https://github.com/Seogeurim/CS-study)
-- [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
-- [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
-- [WeareSoft/tech-interview](https://github.com/WeareSoft/tech-interview)
-- [jobhope/TechnicalNote](https://github.com/jobhope/TechnicalNote)
 
 ### [Data Structure (자료구조)](./contents/data-structure)
 
@@ -25,3 +18,13 @@ SSAFY 3월 스터디
 ### [Software Engineering (소프트웨어 공학)](./contents/software-engineering)
 
 ### [Language](./contents/language)
+
+<hr>
+
+### Reference
+
+- [Seogeurim/CS-study](https://github.com/Seogeurim/CS-study)
+- [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+- [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
+- [WeareSoft/tech-interview](https://github.com/WeareSoft/tech-interview)
+- [jobhope/TechnicalNote](https://github.com/jobhope/TechnicalNote)
