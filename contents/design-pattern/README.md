@@ -5,3 +5,7 @@
 - Singleton 패턴
 - Factory 패턴
 - MVC 패턴
+<<<<<<< HEAD
+=======
+
+>>>>>>> e9bac730ea62b2d218b347a177dd0a6f78fed931
