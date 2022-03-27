@@ -3,3 +3,4 @@
 - Singleton 패턴
 - Factory 패턴
 - MVC 패턴
+- [SOLID 5 원칙](./contents/solid principle.md)
